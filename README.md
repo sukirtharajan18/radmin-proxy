@@ -67,4 +67,6 @@ Proxy server is running on port 8080
 
 - Enter the local IP address of your computer and the port number of the proxy server. For example: `http://192.168.1.xxx:8080`.
 
+- You can also go to the route `http://192.168.1.xxx:8080/shutdown` to shutdown your computer.
+
 By following these steps, you can bridge the RADMIN VPN connection to your local network, allowing devices on the local network to access the web server running on the RADMIN VPN.
